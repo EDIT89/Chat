@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Qml/main.qml</file>
+        <file>Qml/Pages/ConversationPage.qml</file>
+        <file>Qml/Pages/DialogPage.qml</file>
+        <file>Qml/Pages/LoginPage.qml</file>
+        <file>Qml/Pages/RegisterPage.qml</file>
+        <file>Qml/Pages/SearchUsersPage.qml</file>
+        <file>Qml/Items/ChatListView.qml</file>
+        <file>Qml/Items/ConversationPageHeader.qml</file>
+        <file>Qml/Items/ConversationTextField.qml</file>
+        <file>Qml/Items/CustomButton_1.qml</file>
+        <file>Qml/Items/CustomTextField_1.qml</file>
+        <file>Qml/Items/DialogListView.qml</file>
+        <file>Qml/Items/DialogPageHeader.qml</file>
+        <file>Qml/Items/DialogRow.qml</file>
+        <file>Qml/Items/MessageItem.qml</file>
+        <file>Qml/Items/RoundImage.qml</file>
+        <file>Qml/Items/SearchUsersPageHeader.qml</file>
+        <file>Qml/Items/UserListView.qml</file>
+        <file>Qml/Items/UserRow.qml</file>
+        <file>Qml/Images/defaultAvatar.png</file>
+        <file>Qml/Images/free-icon-avatar-7609779.png</file>
+        <file>Qml/Images/free-icon-back-4562793.png</file>
+        <file>Qml/Images/free-icon-send-data.png</file>
+    </qresource>
+</RCC>
